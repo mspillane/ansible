@@ -1,4 +1,5 @@
 ---
+# Ansible script to secure an Ubuntu server. Based on script by Ryan Eschinger.
 - hosts: all
 
   vars:
